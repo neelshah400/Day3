@@ -6,6 +6,7 @@ public class Day3{
 		System.out.println("My name is Aniketh.");
 		System.out.println("Partner A");
 		System.out.println("10:00");
+		System.out.println("java > python");
 
 	}
 
