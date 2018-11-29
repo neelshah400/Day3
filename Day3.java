@@ -7,6 +7,7 @@ public class Day3{
 		System.out.println("Partner A");
 		System.out.println("10:00");
 		System.out.println("java > python");
+		System.out.println("9:45");
 
 	}
 
