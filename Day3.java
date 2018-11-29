@@ -5,7 +5,7 @@ public class Day3{
 		System.out.println("My name is Neel.");
 		System.out.println("My name is Aniketh.");
 		System.out.println("Partner A");
-		System.out.println("9:45");
+		System.out.println("10:00");
 
 	}
 
