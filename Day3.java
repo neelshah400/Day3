@@ -4,6 +4,7 @@ public class Day3{
 
 		System.out.println("My name is Neel.");
 		System.out.println("My name is Aniketh.");
+		System.out.println("Partner A");
 
 	}
 
